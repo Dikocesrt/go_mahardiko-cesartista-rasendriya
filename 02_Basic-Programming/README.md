@@ -1,4 +1,4 @@
-# RESUME BASIC PROGRAMMING
+# (02) BASIC PROGRAMMING
 
 3 point penting :
 1. Golang merupakan bahasa pemrograman open source yang dikembangkan oleh google, bahasa ini dikembangkan untuk memudahkan proses development, Bahasa golang ini pertama kali dikembangkan oleh google pada tahun 2007, beberapa perusahaan yang menggunakan golang adalah Uber, Google, Grab, dll

@@ -1,4 +1,4 @@
-# RESUME INTRODUCTION ALGORITHM
+# (01) INTRODUCTION ALGORITHM
 
 3 Point Penting :
 1. Algoritma adalah prosedur komputasi yang didefinisikan dengan baik yang mengambil beberapa nilai sebagai input dan menghasilkan beberapa nilai sebagai output, salah satu contohnya adalah sorting.

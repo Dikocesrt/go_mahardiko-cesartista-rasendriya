@@ -1,4 +1,4 @@
-(04) Time And Space Complexity
+# (04) Time And Space Complexity
 
 3 Point Penting :
 1. Penggunaan kompleksitas waktu membuatnya mudah untuk memperkirakan waktu eksekusi dari sebuah program. Kompleksitas dapat dilihat sebagai jumlah maksimum operasi primitif yang mungkin dilakukan oleh sebuah program.

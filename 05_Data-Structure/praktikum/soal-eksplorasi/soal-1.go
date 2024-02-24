@@ -14,7 +14,7 @@ type CourseData struct {
 }
 
 func main() {
-	file, err := os.Open("survey.csv")
+	file, err := os.Open("C:/KOOOOO/Kuliah/Semester 6/Alterra/src/GO_MAHARDIKO-CESARTISTA-RASENDRIYA/05_Data-Structure/praktikum/soal-eksplorasi/survey.csv")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return

@@ -20,7 +20,6 @@ func DeletePackageByIdController(c echo.Context) error {
 
 	baseResponseSuccess := model.BaseResponseSuccess{
 		Message: "Success Delete Package By Id",
-		Data:    pkg,
 	}
 	return c.JSON(http.StatusOK, baseResponseSuccess)
 }
